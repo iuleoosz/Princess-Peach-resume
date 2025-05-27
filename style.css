@@ -19,3 +19,6 @@ img {
   border-radius: 28px;
 }
 
+footer img {
+  vertical-align: middle;
+}
