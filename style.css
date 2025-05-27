@@ -1,3 +1,8 @@
+:root {
+  font-family: "Alice", serif;
+  line-height: 150%
+}
+
 body {
   background-size: cover;
 }
@@ -13,3 +18,4 @@ body {
 img {
   border-radius: 28px;
 }
+
